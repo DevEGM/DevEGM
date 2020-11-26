@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Mahmoud! (AKA kelvin).
+### Hi there 👋, I'm Mahmoud! (AKA EGM).
 
 <br/>
-<a href="https://discord.com/users/688815614625841208">
+<a href="https://discord.com/users/704686373587910706">
     <img align ="left" alt="Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://twitter.com/kelvin4dev">
@@ -18,7 +18,7 @@ Hey, I'm Mahmoud Mohammed, a JS Developer 🚀, from Egypt.
 
 - 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 📫 Contact me in discord :  **kelvin#0002.**
+- 📫 Contact me in discord :  **Mahmoud.#0001.**
 - 😄 Pronouns :  **He/Him.**
 - My NPMJS packages:<br/>
 
@@ -40,8 +40,8 @@ Hey, I'm Mahmoud Mohammed, a JS Developer 🚀, from Egypt.
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=kelvin4dev&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kelvin4dev&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin4dev&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=EG-M&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EG-M&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EG-M&theme=tokyonight&hide=batchfile">
 
 
 
